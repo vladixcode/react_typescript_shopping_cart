@@ -14,6 +14,7 @@ Shopping Cart SPA was created with React and TypeScript
 ## Live demo
 
 This repository is linked with Netlify (continuous deployment) so you can see build version on this URL:
+[https://react-typescript-shopping-cart.netlify.app/](https://react-typescript-shopping-cart.netlify.app/)
 
 ## How to run the application?
 
